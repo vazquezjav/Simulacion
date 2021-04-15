@@ -1,7 +1,5 @@
 # Simulacion
 Trabajos-Examenes-Pruebas
-# Trabajos de simulación
-
 ## Tarea 1: Simulacion Dados 07/04/2021
 
 * **Codigo Fuente** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Frecuencia-dados/Frecuencias.py)

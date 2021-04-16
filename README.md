@@ -10,4 +10,4 @@ Trabajos-Examenes-Pruebas
 * **Informe** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/Regresion%20Covid/Informe_RegresionCovid.pdf)
 
 ## Tareas en clases: 
-* **Codigo Fuente** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Actividades-Clase/Tarea-1-Juego-de-la-vida/Tarea_clase_Juego-Vida.pdf)
+* **Juego de la vida** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Actividades-Clase/Tarea-1-Juego-de-la-vida/Tarea_clase_Juego-Vida.pdf)

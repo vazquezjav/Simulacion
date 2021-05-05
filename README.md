@@ -16,6 +16,9 @@ Trabajos-Examenes-Pruebas
 * **Codigo Fuente** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/SimulacionContagiosCovid/SimulacionContagiosCovid-SIR.ipynb)
 * **Informe** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/SimulacionContagiosCovid/Informe_SimulacionContagios.pdf)
 
+## Trabajo 5: Reportes Matplotlib
+* **Proyecto** - [Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Fifa)
+
 ## Boletin Practicas 1:
 * **Simulacion Trafico** - [Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Simulacion-Trafico)
 * **Simulacion PIB Ecuador** - [Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Simulacion-PIB)

@@ -27,5 +27,4 @@ Trabajos-Examenes-Pruebas
 * **Actividad 1. Juego de la vida** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/Actividades-Clase/Tarea-1-Juego-de-la-vida/Tarea_clase_Juego-Vida.pdf)
 
 ## Pruebas:
-* **Prueba 1 :-[Informe](https://github.com/vazquezjav/Simulacion/blob/main/Pruebas/Prueba_1/Informe/Prueba_Javier_Vazquez.pdf)
-*           *******Proyecto** -[Proyecto] ([Informe] (https://github.com/vazquezjav/Simulacion/tree/main/Pruebas/Prueba_1)
+* **Prueba 1 :[Informe](https://github.com/vazquezjav/Simulacion/blob/main/Pruebas/Prueba_1/Informe/Prueba_Javier_Vazquez.pdf) -[Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Pruebas/Prueba_1)

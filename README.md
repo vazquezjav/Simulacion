@@ -1,23 +1,27 @@
 # Simulacion
 Trabajos-Examenes-Pruebas
-## Trabajo 1: Simulacion Dados 
+### Trabajo 1: Simulacion Dados 
 
 * **Codigo Fuente** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Frecuencia-dados/Frecuencias.py)
 * **Informe** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/Frecuencia-dados/Informe-Frecuencia-Dados.pdf)
 
-## Trabajo 2: Regresion COVID
+### Trabajo 2: Regresion COVID
 * **Codigo Fuente** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Regresion%20Covid/RegresionCovid.ipynb)
 * **Informe** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/Regresion%20Covid/Informe_RegresionCovid.pdf)
 
-## Trabajo 3: Simulacion SIR Covid Ecuador
+### Trabajo 3: Simulacion SIR Covid Ecuador
 * **Codigo Fuente** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Simulacion-SIR-Ecuador/SimulacionContagiosCovid-SIR.ipynb)
 
-## Trabajo 4: Simulacion Contagios Ecuador
+### Trabajo 4: Simulacion Contagios Ecuador
 * **Codigo Fuente** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/SimulacionContagiosCovid/SimulacionContagiosCovid-SIR.ipynb)
 * **Informe** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/SimulacionContagiosCovid/Informe_SimulacionContagios.pdf)
 
-## Trabajo 5: Reportes Matplotlib
+### Trabajo 5: Reportes Matplotlib
 * **Proyecto** - [Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Fifa)
+
+### Trabajo 6: Simulacion Lavanderia Simpy
+* **Proyecto** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Simulacion-Lavanderia-Simpy/Introduccion_Simpy-Lavanderia.ipynb)
+* **Informe** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/Simulacion-Lavanderia-Simpy/Informe_Carwash.pdf)
 
 ## Boletin Practicas 1:
 * **Simulacion Trafico** - [Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Simulacion-Trafico)

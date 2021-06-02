@@ -23,6 +23,10 @@ Trabajos-Examenes-Pruebas
 * **Proyecto** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Simulacion-Lavanderia-Simpy/Introduccion_Simpy-Lavanderia.ipynb)
 * **Informe** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/Simulacion-Lavanderia-Simpy/Informe_Carwash.pdf)
 
+### Trabajo 7: Simulacion Vacunacion Simpy
+* **Codigo** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Simpy-Vacunacion/Simpy_Vacunacion.ipynb)
+* **Informe** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/Simpy-Vacunacion/Simpy_Vacunacion.pdf)
+
 ## Boletin Practicas 1:
 * **Simulacion Trafico** - [Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Simulacion-Trafico)
 * **Simulacion PIB Ecuador** - [Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Simulacion-PIB)

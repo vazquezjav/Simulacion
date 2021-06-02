@@ -1,0 +1,423 @@
+1622343044226	geckodriver	INFO	Listening on 127.0.0.1:49644
+1622343047328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileV2kJvP"
+1622343057445	geckodriver	INFO	Listening on 127.0.0.1:58146
+1622343060489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileMYHv2P"
+1622343060890	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622343063074	Marionette	INFO	Listening on port 61403
+1622343063183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622343505964	Marionette	INFO	Stopped listening on port 61403
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofile2rKoSl"
+1622343101249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622343103377	Marionette	INFO	Listening on port 51166
+1622343103510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622343619299	Marionette	INFO	Stopped listening on port 51166
+1622384128346	geckodriver	INFO	Listening on 127.0.0.1:57890
+1622384131384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileYhoW9I"
+1622384132123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622384133929	Marionette	INFO	Listening on port 57898
+1622384134077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622384227956	Marionette	INFO	Stopped listening on port 57898
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622384340375	geckodriver	INFO	Listening on 127.0.0.1:62469
+1622384343441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofile3UlQlG"
+1622384343756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622384345344	Marionette	INFO	Listening on port 62477
+1622384345511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622384460205	Marionette	INFO	Stopped listening on port 62477
+1622384462188	geckodriver	INFO	Listening on 127.0.0.1:64586
+1622384465242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofilecp0Q4E"
+1622384465554	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622384467216	Marionette	INFO	Listening on port 60222
+1622384467308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622384660315	Marionette	INFO	Stopped listening on port 60222
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622384808370	geckodriver	INFO	Listening on 127.0.0.1:61855
+1622384811424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileQ3wB4b"
+1622384811735	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622384813324	Marionette	INFO	Listening on port 61863
+1622384813470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/LassoGuillermo, line 131: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.1337ed15.js)
+JavaScript error: https://twitter.com/LassoGuillermo, line 131: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.1337ed15.js)
+JavaScript error: https://twitter.com/LassoGuillermo, line 131: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.1337ed15.js)
+JavaScript error: https://twitter.com/LassoGuillermo, line 131: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.1337ed15.js)
+JavaScript error: https://twitter.com/LassoGuillermo, line 131: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.1337ed15.js)
+JavaScript error: https://twitter.com/LassoGuillermo, line 131: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.1337ed15.js)
+JavaScript error: https://twitter.com/LassoGuillermo, line 131: ChunkLoadError: Loading chunk 0 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/sharedCore.1337ed15.js)
+JavaScript error: https://twitter.com/LassoGuillermo, line 131: ChunkLoadError: Loading chunk 245 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.emoji.en.ede7a465.js)
+JavaScript error: https://twitter.com/LassoGuillermo, line 131: ChunkLoadError: Loading chunk 56 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.95d70595.js)
+JavaScript error: https://twitter.com/LassoGuillermo, line 131: ChunkLoadError: Loading chunk 169 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.da73f065.js)
+JavaScript error: https://twitter.com/LassoGuillermo, line 131: ChunkLoadError: Loading chunk 19 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~ondemand.EmojiPickerData~ondemand.EmojiPicker.c4bace05.js)
+1622386686653	Marionette	INFO	Stopped listening on port 61863
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622386688701	geckodriver	INFO	Listening on 127.0.0.1:60872
+1622386691773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofilemtX6Rm"
+1622386692094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622386693672	Marionette	INFO	Listening on port 60884
+1622386693827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622386813913	Marionette	INFO	Stopped listening on port 60884
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622386835067	geckodriver	INFO	Listening on 127.0.0.1:56368
+1622386838119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofiled6wjLU"
+1622386838431	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622386840002	Marionette	INFO	Listening on port 56379
+1622386840193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622386903104	Marionette	INFO	Stopped listening on port 56379
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622386924761	geckodriver	INFO	Listening on 127.0.0.1:56485
+1622386927822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofilei3Pgss"
+1622386928134	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622386929687	Marionette	INFO	Listening on port 56497
+1622386929871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622387225656	Marionette	INFO	Stopped listening on port 56497
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileqNNwew"
+1622387220948	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622387222757	Marionette	INFO	Listening on port 56987
+1622387223268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1622387304664	Marionette	INFO	Stopped listening on port 56987
+1622388415511	geckodriver	INFO	Listening on 127.0.0.1:59163
+1622388418578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileCaxyAC"
+1622388418893	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622388420517	Marionette	INFO	Listening on port 59175
+1622388420638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622388445500	Marionette	INFO	Stopped listening on port 59175
+1622388457552	geckodriver	INFO	Listening on 127.0.0.1:61286
+1622388460611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileKYWFDH"
+1622388460925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622388462578	Marionette	INFO	Listening on port 61300
+1622388462674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 571))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle24 (resource://devtools/server/actors/page-style.js:571:5)", "resource://devtools/shared/protocol/Front.js", 358))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1622389326383	Marionette	INFO	Stopped listening on port 61300
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofilehZ7tg1"
+1622389004920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622389006637	Marionette	INFO	Listening on port 64259
+1622389006663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622389058747	Marionette	INFO	Stopped listening on port 64259
+1622389070445	geckodriver	INFO	Listening on 127.0.0.1:64424
+1622389073502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileCHpmhG"
+1622389073905	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622389075636	Marionette	INFO	Listening on port 64435
+1622389075682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622389328530	Marionette	INFO	Stopped listening on port 64435
+2389326104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofiledOEPio"
+1622389326525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622389328219	Marionette	INFO	Listening on port 51203
+1622389328289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 156 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.b8eef125.js)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1622389600850	Marionette	INFO	Stopped listening on port 51203
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+", "(unknown module)"))
+1622389595049	Marionette	INFO	Listening on port 60424
+1622389595374	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+[Child 21976, MediaDecoderStateMachine #1] WARNING: Decoder=1b20bf4cc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 21976, MediaDecoderStateMachine #1] WARNING: Decoder=1b20bf4cc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3478
+console.error: (new TypeError("null has no properties", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: null has no properties: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("null has no properties", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: null has no properties: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1622390525315	Marionette	INFO	Stopped listening on port 60424
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileBVRIUp"
+1622390043881	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622390045593	Marionette	INFO	Listening on port 55694
+1622390045611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622390524441	Marionette	INFO	Stopped listening on port 55694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileqT3LPn"
+1622390396525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622390398548	Marionette	INFO	Listening on port 57993
+1622390398834	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript error: resource://devtools/client/fronts/node.js, line 412: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 412: TypeError: this.parentFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle24 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+1622390811681	Marionette	INFO	Stopped listening on port 57991622390811806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileDbltlq"
+1622390812113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622390813783	Marionette	INFO	Listening on port 51946
+1622390813863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622391203022	Marionette	INFO	Stopped listening on port 51946
+2391105517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileesO9yD"
+1622391105812	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622391107582	Marionette	INFO	Listening on port 55608
+1622391107600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 156 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.b8eef125.js)
+1622391204027	Marionette	INFO	Stopped listening on port 55608
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileUIVK1a"
+1622391203529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622391205461	Marionette	INFO	Listening on port 63352
+1622391205902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622391275262	Marionette	INFO	Stopped listening on port 63352
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622391284650	geckodriver	INFO	Listening on 127.0.0.1:63549
+1622391287712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileC9fmRn"
+1622391288007	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622391289562	Marionette	INFO	Listening on port 63562
+1622391289782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622391684605	Marionette	INFO	Stopped listening on port 63562
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileO4jOyl"
+1622391682515	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622391684226	Marionette	INFO	Listening on port 63372
+1622391684254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622391728566	Marionette	INFO	Stopped listening on port 63372
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileGWjJFx"
+1622391728688	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622391730309	Marionette	INFO	Listening on port 63518
+1622391730350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 182 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.be8dc735.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 182 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.be8dc735.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 182 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.be8dc735.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 182 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.be8dc735.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 182 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.be8dc735.js)
+1622392450613	Marionette	INFO	Stopped listening on port 63518
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622415204778	geckodriver	INFO	Listening on 127.0.0.1:49350
+1622415207841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileWTHHdK"
+1622415208637	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622415210875	Marionette	INFO	Listening on port 49362
+1622415211069	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622415827419	Marionette	INFO	Stopped listening on port 49362
+round" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofilel84n9V"
+1622415822710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622415824757	Marionette	INFO	Listening on port 64464
+1622415825013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622416046344	Marionette	INFO	Stopped listening on port 64464
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622416059003	geckodriver	INFO	Listening on 127.0.0.1:50725
+1622416062073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileyHJOhv"
+1622416062441	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622416064534	Marionette	INFO	Listening on port 50736
+1622416064777	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622429435585	Marionette	INFO	Stopped listening on port 50736
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622490508373	geckodriver	INFO	Listening on 127.0.0.1:59726
+1622490511413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofilewj2UdT"
+1622490512029	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622490514290	Marionette	INFO	Listening on port 59734
+1622490514639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 156 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.b8eef125.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 156 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.TimelineRenderer.b8eef125.js)
+1622491142829	Marionette	INFO	Stopped listening on port 59734
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofilew7WC9l"
+1622490721955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622490723934	Marionette	INFO	Listening on port 59838
+1622490724255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622491141976	Marionette	INFO	Stopped listening on port 59838
+2491135230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofilea4decJ"
+1622491135658	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622491138062	Marionette	INFO	Listening on port 55224
+1622491138445	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21820, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622491777137	Marionette	INFO	Stopped listening on port 55224
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622492389222	geckodriver	INFO	Listening on 127.0.0.1:60030
+1622492402671	geckodriver	INFO	Listening on 127.0.0.1:60035
+1622492405733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofilepprzPV"
+1622492406117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622492407779	Marionette	INFO	Listening on port 60043
+1622492407815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 182 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.be8dc735.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 182 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.be8dc735.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 182 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.be8dc735.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 182 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.be8dc735.js)
+JavaScript error: https://twitter.com/, line 131: ChunkLoadError: Loading chunk 182 failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.be8dc735.js)
+1622495474739	Marionette	INFO	Stopped listening on port 60043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622498615148	geckodriver	INFO	Listening on 127.0.0.1:64487
+1622498618233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vazqu\\AppData\\Local\\Temp\\rust_mozprofileaxOvQY"
+1622498618560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622498620146	Marionette	INFO	Listening on port 64495
+1622498620303	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22532, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622507056685	Marionette	INFO	Stopped listening on port 64495
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -41,4 +41,4 @@ Trabajos-Examenes-Pruebas
 * **Examen Interciclo** :[Informe](https://github.com/vazquezjav/Simulacion/blob/main/Examenes/Examen-Interciclo/Informe-Final.pdf) -[Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Examenes/Examen-Interciclo)
 
 ## Proyectos:
-* **Proyecto Interciclo:** [Sirio web](http://60c0d044bdcee.site123.me/) -[Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Proyectos/Proyecto_Interciclo/recursos/Promodel)
+* **Proyecto Interciclo:** [Sitio web](http://60c0d044bdcee.site123.me/) -[Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Proyectos/Proyecto_Interciclo/recursos/Promodel)

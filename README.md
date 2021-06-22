@@ -24,8 +24,12 @@ Trabajos-Examenes-Pruebas
 * **Informe** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/Simulacion-Lavanderia-Simpy/Informe_Carwash.pdf)
 
 ### Trabajo 7: Simulacion Vacunacion Simpy
-* **Codigo** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Simpy-Vacunacion/Simpy_Vacunacion.ipynb)
+* **Codigo** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Simpy%20Interrupciones/Vacunacion_Interrupciones.ipynb)
 * **Informe** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/Simpy-Vacunacion/Simpy_Vacunacion.pdf)
+
+### Trabajo 8: Simulacion Vacunacion Simpy Interrupciones
+* **Codigo** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Simpy-Vacunacion/Simpy_Vacunacion.ipynb)
+* **Informe** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/Simpy%20Interrupciones/Vacunacion_Interrupciones.pdf)
 
 ## Boletin Practicas 1:
 * **Simulacion Trafico** - [Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Simulacion-Trafico)

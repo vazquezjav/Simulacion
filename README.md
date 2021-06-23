@@ -31,6 +31,10 @@ Trabajos-Examenes-Pruebas
 * **Codigo** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Simpy%20Interrupciones/Vacunacion_Interrupciones.ipynb)
 * **Informe** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/Simpy%20Interrupciones/Vacunacion_Interrupciones.pdf)
 
+### Trabajo 9: Simulacion Vacunacion Simpy Recursos
+* **Codigo** - [Codigo](https://github.com/vazquezjav/Simulacion/blob/main/Simpy%20Vacunacion%20Recursos/Vacunacion%20Recursos.ipynb)
+* **Informe** - [Informe](https://github.com/vazquezjav/Simulacion/blob/main/Simpy%20Vacunacion%20Recursos/Vacunacion%20Recursos.pdf)
+
 ## Boletin Practicas 1:
 * **Simulacion Trafico** - [Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Simulacion-Trafico)
 * **Simulacion PIB Ecuador** - [Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Simulacion-PIB)

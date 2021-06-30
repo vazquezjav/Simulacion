@@ -44,6 +44,7 @@ Trabajos-Examenes-Pruebas
 
 ## Pruebas:
 * **Prueba 1 :** [Informe](https://github.com/vazquezjav/Simulacion/blob/main/Pruebas/Prueba_1/Informe/Prueba_Javier_Vazquez.pdf) -[Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Pruebas/Prueba_1)
+* **Prueba 2 SED: [Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Pruebas/Prueba%202)
 
 ## Examenes:
 * **Examen Interciclo** :[Informe](https://github.com/vazquezjav/Simulacion/blob/main/Examenes/Examen-Interciclo/Informe-Final.pdf) -[Proyecto](https://github.com/vazquezjav/Simulacion/tree/main/Examenes/Examen-Interciclo)

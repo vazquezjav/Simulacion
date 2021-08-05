@@ -1,0 +1,21 @@
+<div class="uploadContainer">  
+  <div class="container">
+    <div class="card">
+      <h3>Consultar noticia</h3>
+      <div class="drop_box">
+        <header>
+          <h4>Debe ingresar el enlace a una noticia publicada en una red social.</h4>
+        </header>
+        <p>Redes sociales compatibles: TWITTER</p>
+        <ion-item>
+          <ion-input placeholder="Enlace" size="255" [(ngModel)]="enlace" ></ion-input>
+        </ion-item>
+      </div>
+      <div class="botonDiv">
+        <button class="btn" (click)="clasificarNoticia($event)">Consultar</button>
+        <span class="uploadError" *ngIf="noticia == false">{{respuesta}}</span>
+        <span class="uploadSuccess" *ngIf="noticia == true">{{respuesta}}</span>
+      </div>
+    </div>
+  </div>
+</div>

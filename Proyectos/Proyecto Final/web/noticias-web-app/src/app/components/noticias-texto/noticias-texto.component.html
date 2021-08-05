@@ -1,0 +1,22 @@
+<div class="uploadContainer">  
+  <div class="container">
+    <div class="card">
+      <h3>Consultar noticia</h3>
+      <div class="box">
+        <div class="drop_box">
+          <header>
+            <h4>Debe ingresar el texto de la noticia a consultar.</h4>
+          </header>
+        </div>
+      <ion-item>
+        <ion-textarea rows="6" cols="20" placeholder="Ingrese la noticia aquí..." (ionChange)="obtenerTexto($event)"></ion-textarea>
+      </ion-item>
+    </div>
+      <div class="botonDiv">
+        <button class="btn" (click)="clasificarNoticia()">Consultar</button>
+        <span class="uploadError" *ngIf="noticia == false">{{respuesta}}</span>
+        <span class="uploadSuccess" *ngIf="noticia == true">{{respuesta}}</span>
+      </div>
+    </div>
+  </div>
+</div>
